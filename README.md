@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JulianGan
-- 📫 How to reach me: jg1524@scarletmail.rutgers.edu
+- 📫 How to reach me: jg7955@nyu.edu
 
 <!---
 JulianGan/JulianGan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
