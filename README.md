@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JulianGan
-- 📫 How to reach me: jg7955@nyu.edu
+- Hi, I’m Julian
+- How to reach me: jg7955@nyu.edu
 - linkedin.com/in/juliangancs/
 
 <!---
